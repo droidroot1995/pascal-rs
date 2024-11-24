@@ -1,0 +1,10 @@
+pub const PLUS: &str = "PLUS";
+pub const MINUS: &str = "MINUS";
+pub const MUL: &str = "MUL";
+pub const DIV: &str = "DIV";
+pub const MOD: &str = "MOD";
+pub const POW: &str = "POW";
+pub const EOF: &str = "EOF";
+pub const NUMBER: &str = "NUMBER";
+pub const LPAREN: &str = "(";
+pub const RPAREN: &str = ")";
